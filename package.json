@@ -1,7 +1,7 @@
 {
-  "name": "react-youtube",
+  "name": "reactYouTube",
   "version": "1.0.0",
-  "description": "React educational application",
+  "description": "Educational project",
   "main": "index.js",
   "repository": "git@github.com:NealBrandi/ReactYouTube.git",
   "scripts": {
